@@ -1,0 +1,20 @@
+
+{ 
+
+
+    "editor.fontSize": 16, 
+
+
+    "editor.fontFamily": "'YaHei Consolas Hybrid', Consolas, 'Courier New', monospace", 
+
+
+    "files.trimTrailingWhitespace": true, 
+
+
+    "terminal.integrated.fontSize": 16, 
+
+
+    "window.zoomLevel": 0.6 
+
+
+} 
